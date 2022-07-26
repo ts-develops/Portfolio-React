@@ -8,7 +8,7 @@ import KanbanBoard from '../assets/kanban board.png'
 
 const Portfolio = () => {
   return (
-            <div className='md:h-screen w-full bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600 '>
+            <div id='portfolio' className='md:h-screen w-full bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600 '>
                 <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4'>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline'>Portfolio</p>

@@ -5,7 +5,7 @@ import CV from '../assets/TawfiqCV.pdf'
 
 const About = () => {
   return (
-            <div className='h-screen w-full bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600'>
+            <div id='about' className='h-screen w-full bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600'>
                 <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
                 <div className='flex flex-col justify-center'>
                 <h1 className='text-4xl sm:text-4xl font-bold'>About Me</h1>
