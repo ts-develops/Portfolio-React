@@ -1,5 +1,6 @@
 import React from 'react'
 import PortfolioImage from '../assets/grad-image.jpeg'
+import CV from '../assets/TawfiqCV.pdf'
 
 
 const About = () => {
@@ -11,7 +12,7 @@ const About = () => {
                 <p className='text-xl py-4'>Front End Developer based in London. Courteous and enthusiastic. Computer Science graduate with passion creating excellent user experiences.</p>
                 <p className='text-xl'>I have a keen ability to understand and resolve issues and like challenging aspects to bring the best out of me. Having many skills and continuosly learning helps me perfect my craft as a developer to please users and clients.</p>
                 <div className='py-5 text-center'>
-                <a href='assets/TawfiqCV.pdf' className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded' >Download CV</a>
+                <a href={CV} target='_blank' rel="noreferrer" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded' >Download CV</a>
                 </div>
                 </div>
                 <div>
