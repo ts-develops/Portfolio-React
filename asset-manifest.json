@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ts-develops.github.io/static/css/main.edbdadae.css",
-    "main.js": "/ts-develops.github.io/static/js/main.140c0345.js",
-    "static/media/e-commerce.png": "/ts-develops.github.io/static/media/e-commerce.05e271613689be61476d.png",
-    "static/media/grad-image.jpeg": "/ts-develops.github.io/static/media/grad-image.37c15294bef9e1a42732.jpeg",
-    "static/media/landing page.png": "/ts-develops.github.io/static/media/landing page.e9bff0247aeb92b6403b.png",
-    "static/media/kanban board.png": "/ts-develops.github.io/static/media/kanban board.f93b3794fe1a1ccb9a51.png",
-    "static/media/rickandmorty.jpg": "/ts-develops.github.io/static/media/rickandmorty.a952c45b79cf914f5f9e.jpg",
-    "static/media/random choice selector.png": "/ts-develops.github.io/static/media/random choice selector.912167fe5302d007af77.png",
-    "static/media/TawfiqCV.pdf": "/ts-develops.github.io/static/media/TawfiqCV.e8919a8ab02e6b748cc0.pdf",
-    "index.html": "/ts-develops.github.io/index.html",
-    "main.edbdadae.css.map": "/ts-develops.github.io/static/css/main.edbdadae.css.map",
-    "main.140c0345.js.map": "/ts-develops.github.io/static/js/main.140c0345.js.map"
+    "main.css": "/Portfolio-React/static/css/main.edbdadae.css",
+    "main.js": "/Portfolio-React/static/js/main.1a860998.js",
+    "static/media/e-commerce.png": "/Portfolio-React/static/media/e-commerce.05e271613689be61476d.png",
+    "static/media/grad-image.jpeg": "/Portfolio-React/static/media/grad-image.37c15294bef9e1a42732.jpeg",
+    "static/media/landing page.png": "/Portfolio-React/static/media/landing page.e9bff0247aeb92b6403b.png",
+    "static/media/kanban board.png": "/Portfolio-React/static/media/kanban board.f93b3794fe1a1ccb9a51.png",
+    "static/media/rickandmorty.jpg": "/Portfolio-React/static/media/rickandmorty.a952c45b79cf914f5f9e.jpg",
+    "static/media/random choice selector.png": "/Portfolio-React/static/media/random choice selector.912167fe5302d007af77.png",
+    "static/media/TawfiqCV.pdf": "/Portfolio-React/static/media/TawfiqCV.e8919a8ab02e6b748cc0.pdf",
+    "index.html": "/Portfolio-React/index.html",
+    "main.edbdadae.css.map": "/Portfolio-React/static/css/main.edbdadae.css.map",
+    "main.1a860998.js.map": "/Portfolio-React/static/js/main.1a860998.js.map"
   },
   "entrypoints": [
     "static/css/main.edbdadae.css",
-    "static/js/main.140c0345.js"
+    "static/js/main.1a860998.js"
   ]
 }
