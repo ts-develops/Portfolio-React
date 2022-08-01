@@ -20,10 +20,10 @@ const Navbar = () => {
         </div>
 
         {nav &&  <ul className='md:hidden flex flex-col items-center justify-center top-0 left-0 w-full h-screen absolute bg-black text-gray-500'>
-        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'>Home</li>
-        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'>About Me</li>
-        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'>Portfolio</li>
-        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'>Contact Us</li>
+        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'><a href="#home">Home</a></li>
+        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'><a href="#about">About Me</a></li>
+        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'><a href="#portfolio">Portfolio</a></li>
+        <li className='px-4 cursor-pointer capitalize py-6 text-4xl'><a href="#contactus">Contact Us</a></li>
         </ul>}
 
        

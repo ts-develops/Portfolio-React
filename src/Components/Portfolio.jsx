@@ -4,6 +4,7 @@ import RickandMorty from '../assets/rickandmorty.jpg'
 import LandingPage from '../assets/landing page.png'
 import RandomChoice from '../assets/random choice selector.png'
 import KanbanBoard from '../assets/kanban board.png'
+import CryptoTracker from '../assets/crypto-tracker.png'
 
 
 const Portfolio = () => {
@@ -16,18 +17,11 @@ const Portfolio = () => {
                 </div>
 
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
-                    <div className='shadow-md rounded-lg'>
-                        <img className='rounded h-48 w-96 object-cover' src={Ecommerce} alt="ecommerce" />
+                <div className='shadow-md rounded-lg'>
+                        <img className='rounded h-48 w-96' src={CryptoTracker} alt="crypto-portfolio" />
                         <div className='flex items-center justify-center'>
-                            <a href='https://tsdevelops-ecommerce.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
-                            <a href='https://github.com/ts-develops/Ecommerce-BS' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
-                        </div>
-                    </div>
-                    <div className='shadow-md rounded-lg'>
-                        <img className='rounded h-48 w-96 ' src={RickandMorty} alt="rickandmorty" />
-                        <div className='flex items-center justify-center'>
-                            <a href='https://rickandmortyapi-ts.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
-                            <a href='https://github.com/ts-develops/Rick-and-Morty-API' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
+                            <a href='https://ts-cryptocurrency-tracker.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
+                            <a href='https://github.com/ts-develops/crypto-tracker' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
                         </div>
                     </div>
                     <div className='shadow-md rounded-lg'>
@@ -37,6 +31,22 @@ const Portfolio = () => {
                             <a href='https://github.com/ts-develops/Dynamic-Landing-Page' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
                         </div>
                     </div>
+                    <div className='shadow-md rounded-lg'>
+                        <img className='rounded h-48 w-96 ' src={RickandMorty} alt="rickandmorty" />
+                        <div className='flex items-center justify-center'>
+                            <a href='https://rickandmortyapi-ts.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
+                            <a href='https://github.com/ts-develops/Rick-and-Morty-API' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
+                        </div>
+                    </div>
+                    
+                    <div className='shadow-md rounded-lg'>
+                        <img className='rounded h-48 w-96 object-cover' src={Ecommerce} alt="ecommerce" />
+                        <div className='flex items-center justify-center'>
+                            <a href='https://tsdevelops-ecommerce.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
+                            <a href='https://github.com/ts-develops/Ecommerce-BS' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
+                        </div>
+                    </div>
+                 
                     <div className='shadow-md rounded-lg'>
                         <img className='rounded h-48 w-96 ' src={RandomChoice} alt="randomchoice" />
                         <div className='flex items-center justify-center'>
@@ -51,6 +61,7 @@ const Portfolio = () => {
                             <a href='https://github.com/ts-develops/Kanban-Board' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
                         </div>
                     </div>
+                   
                 </div>
 
                 </div>
