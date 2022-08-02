@@ -1,6 +1,6 @@
 import React from 'react'
 import PortfolioImage from '../assets/grad-image.jpeg'
-import CV from '../assets/TawfiqFED.pdf'
+import CV from '../assets/TawfiqCV.pdf'
 
 
 const About = () => {
