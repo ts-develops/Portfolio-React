@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.edbdadae.css",
-    "main.js": "/Portfolio-React/static/js/main.916b5b13.js",
+    "main.js": "/Portfolio-React/static/js/main.faee8301.js",
     "static/media/e-commerce.png": "/Portfolio-React/static/media/e-commerce.05e271613689be61476d.png",
     "static/media/grad-image.jpeg": "/Portfolio-React/static/media/grad-image.37c15294bef9e1a42732.jpeg",
     "static/media/landing page.png": "/Portfolio-React/static/media/landing page.e9bff0247aeb92b6403b.png",
     "static/media/kanban board.png": "/Portfolio-React/static/media/kanban board.f93b3794fe1a1ccb9a51.png",
+    "static/media/crypto-tracker.png": "/Portfolio-React/static/media/crypto-tracker.73a10c0d50aeed6abc0a.png",
     "static/media/rickandmorty.jpg": "/Portfolio-React/static/media/rickandmorty.a952c45b79cf914f5f9e.jpg",
+    "static/media/TawfiqCV.pdf": "/Portfolio-React/static/media/TawfiqCV.ea6645935d5544e61cb6.pdf",
     "static/media/random choice selector.png": "/Portfolio-React/static/media/random choice selector.912167fe5302d007af77.png",
-    "static/media/TawfiqFED.pdf": "/Portfolio-React/static/media/TawfiqFED.0dbf3db605591c93760d.pdf",
     "index.html": "/Portfolio-React/index.html",
     "main.edbdadae.css.map": "/Portfolio-React/static/css/main.edbdadae.css.map",
-    "main.916b5b13.js.map": "/Portfolio-React/static/js/main.916b5b13.js.map"
+    "main.faee8301.js.map": "/Portfolio-React/static/js/main.faee8301.js.map"
   },
   "entrypoints": [
     "static/css/main.edbdadae.css",
-    "static/js/main.916b5b13.js"
+    "static/js/main.faee8301.js"
   ]
 }
