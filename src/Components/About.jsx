@@ -1,6 +1,7 @@
 import React from 'react'
 import PortfolioImage from '../assets/grad-image.jpeg'
 import CV from '../assets/TawfiqCV.pdf'
+import {BsGithub, BsLinkedin} from 'react-icons/bs'
 
 
 const About = () => {
@@ -14,6 +15,10 @@ const About = () => {
                 <div className='py-5 text-center'>
                 <a href={CV} target='_blank' rel="noreferrer" className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded' >Download CV</a>
                 </div>
+                <div style={{display: "flex", justifyContent: "center", gap: '20px'}}>
+                <a href='https://github.com/ts-develops'><BsGithub fontSize='2em'/></a>
+                  <a href='https://www.linkedin.com/in/tawfiq-abdul-rahman-379746198/'><BsLinkedin fontSize='2em'/></a>
+                  </div>
                 </div>
                 <div>
                 <img src={PortfolioImage} alt="MyImg" className='rounded-3xl mx-auto w-2/3 h-400 w-400' />
