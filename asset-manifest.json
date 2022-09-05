@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio-React/static/css/main.edbdadae.css",
-    "main.js": "/Portfolio-React/static/js/main.f4b20aa8.js",
+    "main.js": "/Portfolio-React/static/js/main.44155c49.js",
     "static/media/grad-image.jpeg": "/Portfolio-React/static/media/grad-image.37c15294bef9e1a42732.jpeg",
     "static/media/landing page.png": "/Portfolio-React/static/media/landing page.e9bff0247aeb92b6403b.png",
+    "static/media/QR-code generator.png": "/Portfolio-React/static/media/QR-code generator.142f189c3568225ce281.png",
     "static/media/crypto-tracker.png": "/Portfolio-React/static/media/crypto-tracker.73a10c0d50aeed6abc0a.png",
     "static/media/rickandmorty.jpg": "/Portfolio-React/static/media/rickandmorty.a952c45b79cf914f5f9e.jpg",
-    "static/media/TawfiqCV.pdf": "/Portfolio-React/static/media/TawfiqCV.70cdf70d53df6dcd378b.pdf",
+    "static/media/TawfiqCV.pdf": "/Portfolio-React/static/media/TawfiqCV.8694a470904849496353.pdf",
     "index.html": "/Portfolio-React/index.html",
     "main.edbdadae.css.map": "/Portfolio-React/static/css/main.edbdadae.css.map",
-    "main.f4b20aa8.js.map": "/Portfolio-React/static/js/main.f4b20aa8.js.map"
+    "main.44155c49.js.map": "/Portfolio-React/static/js/main.44155c49.js.map"
   },
   "entrypoints": [
     "static/css/main.edbdadae.css",
-    "static/js/main.f4b20aa8.js"
+    "static/js/main.44155c49.js"
   ]
 }
