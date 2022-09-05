@@ -2,6 +2,7 @@ import React from 'react'
 import RickandMorty from '../assets/rickandmorty.jpg'
 import LandingPage from '../assets/landing page.png'
 import CryptoTracker from '../assets/crypto-tracker.png'
+import Qrcode from '../assets/QR-code generator.png'
 
 
 const Portfolio = () => {
@@ -22,12 +23,12 @@ const Portfolio = () => {
                         </div>
                     </div>
                     <div className='shadow-md rounded-lg'>
-                        <img className='rounded h-48 w-96 ' src={RickandMorty} alt="rickandmorty" />
+                        <img className='rounded h-48 w-96 object-cover' src={Qrcode} alt="qrcodegenerator" />
                         <div className='flex items-center justify-center'>
-                            <a href='https://rickandmortyapi-ts.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
-                            <a href='https://github.com/ts-develops/Rick-and-Morty-API' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
+                            <a href='https://ts-qrcodegenerator.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
+                            <a href='https://github.com/ts-develops/QRcode-generator' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
                         </div>
-                    </div> 
+                    </div>
                     <div className='shadow-md rounded-lg'>
                         <img className='rounded h-48 w-96 object-cover' src={LandingPage} alt="landingpage" />
                         <div className='flex items-center justify-center'>
@@ -35,6 +36,15 @@ const Portfolio = () => {
                             <a href='https://github.com/ts-develops/Dynamic-Landing-Page' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
                         </div>
                     </div>
+                    <div className='shadow-md rounded-lg'>
+                        <img className='rounded h-48 w-96 ' src={RickandMorty} alt="rickandmorty" />
+                        <div className='flex items-center justify-center'>
+                            <a href='https://rickandmortyapi-ts.netlify.app/' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Live</a>
+                            <a href='https://github.com/ts-develops/Rick-and-Morty-API' target='_blank' rel="noreferrer" className='w-1/2 px-6 py-3 m-4'>Code</a>
+                        </div>
+                    </div> 
+                  
+                    
                         
                 </div>
 
